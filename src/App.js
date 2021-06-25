@@ -30,6 +30,7 @@ class App extends Component {
           exact
           path="/palette/:id"
           render={() => <h1>INDIVIDUAL PALETTE</h1>}
+          // eslint-disable-next-line
           render={(routeProps) => (
             <Palette
               palette={generatePalette(
