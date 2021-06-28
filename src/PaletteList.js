@@ -11,6 +11,7 @@ class PaletteList extends Component {
   render() {
     console.log(this.props);
     const { palettes, classes } = this.props;
+    console.log(palettes);
     return (
       <div className={classes.root}>
         <div classes={classes.container}>
