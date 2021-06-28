@@ -1,5 +1,5 @@
 import sizes from "./sizes";
-import bg from "./Polka-Dots.svg";
+import bg from "./Zig-Zag.svg";
 export default {
   "@global": {
     ".fade-exit": {
@@ -49,6 +49,10 @@ export default {
   palettes: {
     boxSizing: "border-box",
     width: "100%",
+    // display: "flex",
+    // flexDirection: "row",
+    // justifyContent: "space-evenly",
+    // flexWrap: "Wrap",
     display: "grid",
     gridTemplateColumns: "repeat(3, 30%)",
     gridGap: "2.5rem",
