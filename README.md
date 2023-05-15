@@ -6,6 +6,8 @@ Welcome to the [React Colors](https://necromancer26.github.io/react-colors/) rep
 
 React Colors is a simple easy to use color picker built with React and Material UI. It offers a wide range of color palettes for you to choose from. Whether you're a designer, developer, or simply a color enthusiast, this tool will bring your projects to life with a splash of color!
 
+![React Colors](https://green-bubble.fra1.cdn.digitaloceanspaces.com/lights-out/react-colors.png)
+
 ## Features ✨
 
 🎨 Choose from various color palettes: Select your preferred palette from a diverse collection of pre-defined color schemes. Each palette is carefully crafted to offer harmonious and visually appealing combinations.
